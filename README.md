@@ -1289,6 +1289,8 @@ fi
 ```
 ## OUTPUT 
 
+<img width="480" height="414" alt="Screenshot 2026-05-05 112146" src="https://github.com/user-attachments/assets/12568031-9dfe-4b2d-89e9-e665b22510af" />
+
 
 # RESULT:
 The Commands are executed successfully.
