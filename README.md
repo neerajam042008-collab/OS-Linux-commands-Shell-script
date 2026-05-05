@@ -61,6 +61,7 @@ cmp file1 file2
 
 comm file1 file2
  ## OUTPUT
+<img width="446" height="167" alt="Screenshot 2026-05-05 112452" src="https://github.com/user-attachments/assets/1cf7f52c-98b7-4c52-b5f5-b50c02e7c950" />
 
  
 diff file1 file2
