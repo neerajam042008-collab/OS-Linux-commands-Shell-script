@@ -30,7 +30,7 @@ s.n. dasgupta
 sumit chakrobarty
 ^d
 ```
-<img width="359" height="160" alt="Screenshot 2026-04-20 141154" src="https://github.com/user-attachments/assets/f42c3f70-4a56-4da4-bfb6-c28efea3edd2" />
+ 
 
 cat > file2
 ```
@@ -41,17 +41,17 @@ lalit chowdury
 s.n. dasgupta
 ^d
 ```
-<img width="355" height="153" alt="Screenshot 2026-04-20 141209" src="https://github.com/user-attachments/assets/276dbb91-6d6e-4af0-9da5-5cf9b159e161" />
+
 
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+<img width="359" height="160" alt="Screenshot 2026-04-20 141154" src="https://github.com/user-attachments/assets/f42c3f70-4a56-4da4-bfb6-c28efea3edd2" />
 
 
 cat < file2
 ## OUTPUt
-
+<img width="355" height="153" alt="Screenshot 2026-04-20 141209" src="https://github.com/user-attachments/assets/276dbb91-6d6e-4af0-9da5-5cf9b159e161" />
 
 # Comparing Files
 cmp file1 file2
